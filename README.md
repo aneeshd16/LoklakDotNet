@@ -1,5 +1,7 @@
 ﻿# LoklakDotNet
 
+## Development discontinued on this repo. Go to (https://github.com/loklak/LoklakDotNet)
+
 This is the .NET API wrapper for the Loklak server (http://loklak.org).
 
 ##Installation
